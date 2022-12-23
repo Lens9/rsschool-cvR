@@ -1,2 +1,0 @@
-# rsschool-cvR
-new text
